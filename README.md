@@ -1,6 +1,6 @@
 # TodoList
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
+Este é um app de todo list simples feito com Angular 16 e Material Design. Ele permite que os usuários adicionem, editem e excluam tarefas. O app também usa Angular Signals para sincronizar o estado da lista de tarefas entre a frente e o back-end.
 
 ## Development server
 
@@ -14,14 +14,17 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Deploy
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+O app está implantado no Vercel. Você pode ver o app em funcionamento no seguinte endereço:
 
-## Running end-to-end tests
+[https://angular-todo-list-hyib.vercel.app/](https://angular-todo-list-hyib.vercel.app/)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+## Recursos
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Este app usa os seguintes recursos:
+
+- Angular 16
+- Material Design
+- Angular Signals
